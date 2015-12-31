@@ -12,7 +12,7 @@ $ npm install sjcl-codec-base64
 
 ## Usage
 
-As described at in the [sjcl docs](http://bitwiseshiftleft.github.io/sjcl/doc/symbols/sjcl.codec.base64.html) but with each method required separately.
+As described in the [sjcl docs](http://bitwiseshiftleft.github.io/sjcl/doc/symbols/sjcl.codec.base64.html) but with each method required separately.
 
 ```js
 var fromBits = require('sjcl-codec-base64/from-bits')
